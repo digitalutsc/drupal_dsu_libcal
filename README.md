@@ -5,7 +5,7 @@ This Drupal module provides a method to integrate LibCal Events to Drupal conten
 
 ## Requirement
 
-* Already espblished LibCal API setup with client ID and secret. For more information, please visit https://ask.springshare.com/libcal/faq/1407
+* Already established LibCal API setup with client ID and secret. For more information, please visit https://ask.springshare.com/libcal/faq/1407
 * Drupal 8/9 install and setup. 
 
 ## Installation. 
